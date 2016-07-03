@@ -3,7 +3,6 @@
 This is second application from Mackenzie Child.
 
 A simple blog site that allows you sign in and share posts  and comment.It allows you to read and show posts and comments without
-
 sign in.
 
 It's made with Ruby on Rails.
