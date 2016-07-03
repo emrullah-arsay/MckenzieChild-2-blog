@@ -1,28 +1,11 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is second application from Mackenzie Child.
 
-Things you may want to cover:
+A simple blog site that allows you sign in and share posts  and comment.It allows you to read and show posts and comments without
 
-* Ruby version
+sign in.
 
-* System dependencies
+It's made with Ruby on Rails.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Feel free to take a look..
